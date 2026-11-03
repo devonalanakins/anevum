@@ -13,18 +13,18 @@ Only maintain a project if it (a) supports current authorized business/operation
 
 | Repository | Disposition | Narrow operating obligation |
 | --- | --- | --- |
-| [anevum](https://github.com/anevum/anevum) | **ACTIVE** | Public profile, project index and source-of-truth registry |
-| [anevum-web](https://github.com/anevum/anevum-web) | **ACTIVE / RESTRICT** | Maintain real website/routes and required releases; stop broad speculative platform work |
-| [cristybreathe](https://github.com/anevum/cristybreathe) | **ACTIVE** | Current private business workspace; preserve Access and data boundaries |
-| [ideaflow](https://github.com/anevum/ideaflow) | **ACTIVE / MAINTENANCE** | Current manual processing and automatic retention safeguards; recover deployable source only as needed |
-| [devon-station](https://github.com/anevum/devon-station) | **ACTIVE / MAINTENANCE** | Current personal operating workspace; recover verified runtime source |
-| [devonakins.com](https://github.com/anevum/devonakins.com) | **ACTIVE** | Accurate professional portfolio |
-| [brandle](https://github.com/anevum/brandle) | **ACTIVE / FAMILY** | Retain independent original-origin game and player progress |
-| [brandicade](https://github.com/anevum/brandicade) | **ACTIVE / FAMILY** | Preserve actual live Access/save system; no unsafe draft cutover |
-| [cristyrusso.com](https://github.com/anevum/cristyrusso.com) | **PLANNED** | Separate approved website work; README-only is acceptable; no invented implementation |
-| [rhen](https://github.com/anevum/rhen) | **PARKED / VERIFY LIVE OWNER** | No new research development; verify Railway/broker dependency before retirement |
-| [severance](https://github.com/anevum/severance) | **PARKED / CREATIVE** | Preserve real experiments as optional family creative source; no forced game release |
-| [family-adventure-book](https://github.com/anevum/family-adventure-book) | **RETIREMENT CANDIDATE** | No further feature/release-gate work; Worker and history preserved pending safe decommission |
+| [anevum](https://github.com/devonalanakins/anevum) | **ACTIVE** | Public profile, project index and source-of-truth registry |
+| [anevum-web](https://github.com/devonalanakins/anevum-web) | **ACTIVE / RESTRICT** | Maintain real website/routes and required releases; stop broad speculative platform work |
+| [cristybreathe](https://github.com/devonalanakins/cristybreathe) | **ACTIVE** | Current private business workspace; preserve Access and data boundaries |
+| [ideaflow](https://github.com/devonalanakins/ideaflow) | **ACTIVE / MAINTENANCE** | Current manual processing and automatic retention safeguards; recover deployable source only as needed |
+| [devon-station](https://github.com/devonalanakins/devon-station) | **ACTIVE / MAINTENANCE** | Current personal operating workspace; recover verified runtime source |
+| [devonakins.com](https://github.com/devonalanakins/devonakins.com) | **ACTIVE** | Accurate professional portfolio |
+| [brandle](https://github.com/devonalanakins/brandle) | **ACTIVE / FAMILY** | Retain independent original-origin game and player progress |
+| [brandicade](https://github.com/devonalanakins/brandicade) | **ACTIVE / FAMILY** | Preserve actual live Access/save system; no unsafe draft cutover |
+| [cristyrusso.com](https://github.com/devonalanakins/cristyrusso.com) | **PLANNED** | Separate approved website work; README-only is acceptable; no invented implementation |
+| [rhen](https://github.com/devonalanakins/rhen) | **PARKED / VERIFY LIVE OWNER** | No new research development; verify Railway/broker dependency before retirement |
+| [severance](https://github.com/devonalanakins/severance) | **PARKED / CREATIVE** | Preserve real experiments as optional family creative source; no forced game release |
+| [family-adventure-book](https://github.com/devonalanakins/family-adventure-book) | **RETIREMENT CANDIDATE** | No further feature/release-gate work; Worker and history preserved pending safe decommission |
 
 ### Completion gates for the current operating portfolio
 
@@ -81,18 +81,18 @@ Among Cloudflare scripts, 40 distinct names are referenced by these routes/domai
 
 | Repository | Verified main / outstanding | Priority |
 |---|---|---|
-| [`anevum`](https://github.com/anevum/anevum) | Public profile, registry and handoffs; refresh status and completion evidence after each package | P2 |
-| [`anevum-web`](https://github.com/anevum/anevum-web) | Integrated source and passing latest main verification; 281 open PRs, 851 branches, 35 workflows; still contains `apps/cristybreathe` and `games/brandle`, production route ownership is distributed | P0 |
-| [`rhen`](https://github.com/anevum/rhen) | Standalone source, tests, license and passing main CI; 25 open PRs and 538 branches; documented Railway runtime ownership needs verification | P1 |
-| [`devonakins.com`](https://github.com/anevum/devonakins.com) | Standalone website source and green main CI, Cloudflare custom-domain Worker; visual PR #4 is open; deployment provenance and rollback not certified | P1 |
-| [`family-adventure-book`](https://github.com/anevum/family-adventure-book) | Prototype source and green CI; two draft PRs; Cloudflare Worker deployment exists although README still says no deployment | P2 |
-| [`brandle`](https://github.com/anevum/brandle) | Complete static source, CI green and historic live-asset parity; original ANEVUM Web deployer still active; standalone deploy template inactive; administrative gate in issue #7 | P1 |
-| [`cristybreathe`](https://github.com/anevum/cristybreathe) | Standalone code/tests and main CI green; calendar PR #2 draft; D1 backup/restore, Access/authorization and release-owner handover need verification | P0 |
-| [`severance`](https://github.com/anevum/severance) | Godot prototype and independent Python world-state lab, passing CI; both subprojects licensed, root has no consolidated license; original branch history in ANEVUM Web PR #788 | P2 |
-| [`brandicade`](https://github.com/anevum/brandicade) | Main is README-only; draft PR #1 contains recovered static source, new synthetic Access/D1 tests with passing CI; actual live backend, fixed-player identity, backup history and conflicting MIT/GPLv3 notices block merge/cutover | P0 |
-| [`devon-station`](https://github.com/anevum/devon-station) | Main README-only; live Worker with Access, D1 and notifications; source archive has private snapshots and requires public-safe reconstruction and tests | P0 |
-| [`ideaflow`](https://github.com/anevum/ideaflow) | Main README-only; four live intake/meeting/analyzer/operations Workers with D1/R2/queue dependencies; current-source reconciliation and private-data safeguards needed | P0 |
-| [`cristyrusso.com`](https://github.com/anevum/cristyrusso.com) | Planned website/repository, README-only; actual public content, professional claims, rights and domain move need Cristy's approval; do not publish placeholder | P2 |
+| [`anevum`](https://github.com/devonalanakins/anevum) | Public profile, registry and handoffs; refresh status and completion evidence after each package | P2 |
+| [`anevum-web`](https://github.com/devonalanakins/anevum-web) | Integrated source and passing latest main verification; 281 open PRs, 851 branches, 35 workflows; still contains `apps/cristybreathe` and `games/brandle`, production route ownership is distributed | P0 |
+| [`rhen`](https://github.com/devonalanakins/rhen) | Standalone source, tests, license and passing main CI; 25 open PRs and 538 branches; documented Railway runtime ownership needs verification | P1 |
+| [`devonakins.com`](https://github.com/devonalanakins/devonakins.com) | Standalone website source and green main CI, Cloudflare custom-domain Worker; visual PR #4 is open; deployment provenance and rollback not certified | P1 |
+| [`family-adventure-book`](https://github.com/devonalanakins/family-adventure-book) | Prototype source and green CI; two draft PRs; Cloudflare Worker deployment exists although README still says no deployment | P2 |
+| [`brandle`](https://github.com/devonalanakins/brandle) | Complete static source, CI green and historic live-asset parity; original ANEVUM Web deployer still active; standalone deploy template inactive; administrative gate in issue #7 | P1 |
+| [`cristybreathe`](https://github.com/devonalanakins/cristybreathe) | Standalone code/tests and main CI green; calendar PR #2 draft; D1 backup/restore, Access/authorization and release-owner handover need verification | P0 |
+| [`severance`](https://github.com/devonalanakins/severance) | Godot prototype and independent Python world-state lab, passing CI; both subprojects licensed, root has no consolidated license; original branch history in ANEVUM Web PR #788 | P2 |
+| [`brandicade`](https://github.com/devonalanakins/brandicade) | Main is README-only; draft PR #1 contains recovered static source, new synthetic Access/D1 tests with passing CI; actual live backend, fixed-player identity, backup history and conflicting MIT/GPLv3 notices block merge/cutover | P0 |
+| [`devon-station`](https://github.com/devonalanakins/devon-station) | Main README-only; live Worker with Access, D1 and notifications; source archive has private snapshots and requires public-safe reconstruction and tests | P0 |
+| [`ideaflow`](https://github.com/devonalanakins/ideaflow) | Main README-only; four live intake/meeting/analyzer/operations Workers with D1/R2/queue dependencies; current-source reconciliation and private-data safeguards needed | P0 |
+| [`cristyrusso.com`](https://github.com/devonalanakins/cristyrusso.com) | Planned website/repository, README-only; actual public content, professional claims, rights and domain move need Cristy's approval; do not publish placeholder | P2 |
 
 Do **not** conflate application-feature completion with GitHub organization. A correctly scoped *planned* site or *prototype* may remain unpublished and still be organized. Existing live services, however, need a corresponding recoverable public-safe source or explicitly documented private-source exception.
 
@@ -114,19 +114,19 @@ Do **not** conflate application-feature completion with GitHub organization. A c
 
 ### P0 — unblock source and security first
 
-1. Verify and configure protected branches and environment protections; [Brandle admin issue #7](https://github.com/anevum/brandle/issues/7) is a concrete example of this GitHub administrator-only gate.
+1. Verify and configure protected branches and environment protections; [Brandle admin issue #7](https://github.com/devonalanakins/brandle/issues/7) is a concrete example of this GitHub administrator-only gate.
 2. Run secrets/history and rights scan across source-bearing repos and migration branches, triage leaks privately; never publish secrets or actual private client data.
 3. Recover and sanitize authoritative DevonStation code from original archive plus live Worker; establish tests, D1 lineage, Access and backup/rollback before importing to public main.
 4. Recover and reconcile IdeaFlow's four current Worker sources and past archives; preserve manual-on-request analysis policy and separate automatic retention/privacy protections.
-5. Finish Brandicade source provenance, reconcile backend Access verification and existing live `saves` / `save_history` schemas and fixed legacy player mapping; do not deploy or merge [draft PR #1](https://github.com/anevum/brandicade/pull/1) until verified.
-6. Inspect CristyBreathe production Access and D1 backup/restore before releasing [calendar PR #2](https://github.com/anevum/cristybreathe/pull/2), and separately validate its original ANEVUM Web [PR #796](https://github.com/anevum/anevum-web/pull/796).
+5. Finish Brandicade source provenance, reconcile backend Access verification and existing live `saves` / `save_history` schemas and fixed legacy player mapping; do not deploy or merge [draft PR #1](https://github.com/devonalanakins/brandicade/pull/1) until verified.
+6. Inspect CristyBreathe production Access and D1 backup/restore before releasing [calendar PR #2](https://github.com/devonalanakins/cristybreathe/pull/2), and separately validate its original ANEVUM Web [PR #796](https://github.com/devonalanakins/anevum-web/pull/796).
 7. Establish actual ANEVUM apex source and route owner map across overlapping Worker routes; preserve Command/member access and rollback before changing any live release mechanism.
 
 ### P1 — controlled release ownership and CI
 
-8. Complete Brandle scoped token/environment/rollback rehearsal, then retire old deployer via held [ANEVUM Web draft PR #799](https://github.com/anevum/anevum-web/pull/799) **before** enabling standalone manual release; test first release and confirm one writer.
+8. Complete Brandle scoped token/environment/rollback rehearsal, then retire old deployer via held [ANEVUM Web draft PR #799](https://github.com/devonalanakins/anevum-web/pull/799) **before** enabling standalone manual release; test first release and confirm one writer.
 9. Reconcile CristyBreathe, Brandicade, DevonStation and IdeaFlow standalone release owners **individually** after source gates pass; D1/R2 data and authentication must remain private.
-10. Verify DevonAkins.com Worker release lineage/rollback and review [website PR #4](https://github.com/anevum/devonakins.com/pull/4) against current site and tests; do not automatically merge visual work.
+10. Verify DevonAkins.com Worker release lineage/rollback and review [website PR #4](https://github.com/devonalanakins/devonakins.com/pull/4) against current site and tests; do not automatically merge visual work.
 11. Verify family-adventure-book Worker origin, intended demo/route and rollback; fix README's unsupported claim that nothing has deployed. No private family content.
 12. Map actual RHEN operational host: connected Railway shows five projects, two empty RHEN-named projects and other lab services. This does **not** prove RHEN is offline; reconcile against the operational deployment and GitHub source before any service change.
 13. Fix ANEVUM Web application-preview verification, which has failed when Wrangler emits `preview.urls: []`. A previous docs-only CI scope fix did not resolve real application-preview failures. Avoid opening private routes to solve CI superficially.
@@ -166,11 +166,11 @@ This checkpoint **does not change the October 30 baseline counts above**; those 
 
 **Brandicade/Brandle discrepancy and action:** Read-only inspection of the currently deployed Brandicade Worker found two Brandle cards in its embedded HTML, but the old click path first shows a modal and then links to the independently deployed game. [Brandle](https://brandle-glimmer-grove.devonakins.workers.dev/) loaded in an anonymous browser with its 6x5 word grid and keyboard; the Brandicade app is protected by Cloudflare Access, so Brandi's post-authenticated user experience has **not** been tested. The current independent Brandle Worker serves `X-Frame-Options: DENY`, ruling out an iframe shortcut.
 
-[Brandicade draft recovery PR #1](https://github.com/anevum/brandicade/pull/1) now contains two direct, accessible one-tap Brandle links to the **original** Brandle origin, four new tests, a CI job update, and [Brandle restoration notes](https://github.com/anevum/brandicade/blob/recovery/static-v101-20261030/docs/BRANDLE_RESTORATION.md). Exact-head GitHub verification passed at `650a64fd66086a88a5fbc7fb382153b50f2e2f68` after a test-only name-shadow correction; no application or security backend was deployed. [Brandicade issue #2](https://github.com/anevum/brandicade/issues/2) now owns first-class game integration, consentful origin/save migration, full live server-source restoration, licensing and device acceptance.
+[Brandicade draft recovery PR #1](https://github.com/devonalanakins/brandicade/pull/1) now contains two direct, accessible one-tap Brandle links to the **original** Brandle origin, four new tests, a CI job update, and [Brandle restoration notes](https://github.com/devonalanakins/brandicade/blob/recovery/static-v101-20261030/docs/BRANDLE_RESTORATION.md). Exact-head GitHub verification passed at `650a64fd66086a88a5fbc7fb382153b50f2e2f68` after a test-only name-shadow correction; no application or security backend was deployed. [Brandicade issue #2](https://github.com/devonalanakins/brandicade/issues/2) now owns first-class game integration, consentful origin/save migration, full live server-source restoration, licensing and device acceptance.
 
 **Hard Brandicade hold:** The draft static source is still incomplete. Its bundled build does not include the running Worker's `/api/session`, `/api/save`, `/api/backups`, Cloudflare Access and D1 `saves`/`save_history` behavior. The proposed save adapter uses a different schema/identity strategy and cannot replace the legacy `brandi` record without an approved migration and verified rollback. MIT/GPLv3 provenance is unresolved. Do **not** merge the draft into production or claim the new link is live. Existing player data was not accessed or changed.
 
-**Other P0 source gaps remain:** [DevonStation draft PR #1](https://github.com/anevum/devon-station/pull/1) is a partial backend recovery, not a complete UI/runtime; [IdeaFlow draft PR #1](https://github.com/anevum/ideaflow/pull/1) is the inspected analyzer only, not all four services. Cristy's new website repository remains intentionally not yet implemented/published. Verify existing apps and recover public-safe source without private records before any release-owner migration.
+**Other P0 source gaps remain:** [DevonStation draft PR #1](https://github.com/devonalanakins/devon-station/pull/1) is a partial backend recovery, not a complete UI/runtime; [IdeaFlow draft PR #1](https://github.com/devonalanakins/ideaflow/pull/1) is the inspected analyzer only, not all four services. Cristy's new website repository remains intentionally not yet implemented/published. Verify existing apps and recover public-safe source without private records before any release-owner migration.
 
 **Next safe execution order:** 1) Recover/preserve live backend and backups for Brandicade and the independently deployed personal/business workspaces, 2) finish permissions/right-to-publish scans, 3) apply GitHub administrator branch controls, 4) prove a single deployment owner and rollback for each app, 5) run authenticated device acceptance for the Brandicade launcher and other affected live apps, 6) classify historical PRs/branches carefully, 7) close registry and metadata hygiene gaps. Keep each job separately verifiable; no bulk closure, deletion, private-record exports, silent origin changes or production replacement.
 

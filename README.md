@@ -1,10 +1,10 @@
-# Devon Akins
+# Devon Alan Akins
 
-**Author, software builder, and founder of [ANEVUM](https://anevum.com).**
+**Author, software builder, and founder of [Anevum](https://anevum.com).**
 
-I make open-source web software, interactive games, creative tools, and fictional worlds. ANEVUM is my long-term creative studio; I also build independent personal and family projects and software for real business needs.
+I make open-source web software, interactive games, creative tools, and fictional worlds. Anevum is my long-term creative studio; I also build independent personal and family projects and software for real business needs.
 
-[Personal website](https://devonakins.com) · [ANEVUM](https://anevum.com) · [All repositories](https://github.com/anevum?tab=repositories)
+[Personal website](https://devonakins.com) · [Anevum](https://anevum.com) · [All repositories](https://github.com/devonalanakins?tab=repositories)
 
 ---
 
@@ -12,11 +12,11 @@ I make open-source web software, interactive games, creative tools, and fictiona
 
 | Project | What it is | Source |
 | --- | --- | --- |
-| **ANEVUM** | Family creative studio, fictional universe, and web experiences | [anevum-web](https://github.com/anevum/anevum-web) |
-| **DevonAkins.com** | My personal website and public workbench | [devonakins.com](https://github.com/anevum/devonakins.com) |
-| **Brandle** | A personal five-letter browser game with offline support and local progress | [brandle](https://github.com/anevum/brandle) |
-| **Brandicade** | A family game collection; source recovery is in progress | [brandicade](https://github.com/anevum/brandicade) |
-| **IdeaFlow** | Idea capture and meeting software; source reconciliation is in progress | [ideaflow](https://github.com/anevum/ideaflow) |
+| **Anevum** | Family creative studio, fictional universe, and web experiences | [anevum-web](https://github.com/devonalanakins/anevum-web) |
+| **DevonAkins.com** | My personal website and public workbench | [devonakins.com](https://github.com/devonalanakins/devonakins.com) |
+| **Brandle** | A personal five-letter browser game with offline support and local progress | [brandle](https://github.com/devonalanakins/brandle) |
+| **Brandicade** | A family game collection; source recovery is in progress | [brandicade](https://github.com/devonalanakins/brandicade) |
+| **IdeaFlow** | Idea capture and meeting software; source reconciliation is in progress | [ideaflow](https://github.com/devonalanakins/ideaflow) |
 
 Other repositories contain independent work in progress, including games, personal workspaces, and business applications. A public repository or README does **not** mean its application is finished or deployed.
 

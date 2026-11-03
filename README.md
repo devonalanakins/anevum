@@ -14,6 +14,7 @@ I make open-source web software, interactive games, creative tools, and fictiona
 | --- | --- | --- |
 | **Anevum** | Family creative studio, fictional universe, and web experiences | [anevum-web](https://github.com/devonalanakins/anevum-web) |
 | **DevonAkins.com** | My personal website and public workbench | [devonakins.com](https://github.com/devonalanakins/devonakins.com) |
+| **AIEI** | Open-source engineering integrity toolkit for checking AI-assisted work and evidence; source-only, not an automated release certifier | [aiei](https://github.com/devonalanakins/aiei) |
 | **Brandle** | A personal five-letter browser game with offline support and local progress | [brandle](https://github.com/devonalanakins/brandle) |
 | **Brandicade** | A family game collection; source recovery is in progress | [brandicade](https://github.com/devonalanakins/brandicade) |
 | **IdeaFlow** | Idea capture and meeting software; source reconciliation is in progress | [ideaflow](https://github.com/devonalanakins/ideaflow) |

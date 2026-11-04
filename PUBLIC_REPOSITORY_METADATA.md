@@ -2,7 +2,9 @@
 
 **Prepared:** November 3, 2026. **Status: PROPOSED, NOT APPLIED TO REPOSITORY SETTINGS.**
 
-This is a public-safe description, homepage and topic copy sheet for all **13** verified repositories under [Devon Alan Akins](https://github.com/devonalanakins). Repository README and vector asset updates are maintained in the individual repositories. The GitHub connection available for this documentation task does **not** expose repository-description, homepage or topic write permissions, so this file is a prepared source of truth for a future owner-authorized metadata pass, **not evidence those settings changed**.
+This is a public-safe description, homepage and topic copy sheet for the original **13** verified repositories under [Devon Alan Akins](https://github.com/devonalanakins). Repository README and vector asset updates are maintained in the individual repositories. The GitHub connection available for this documentation task does **not** expose repository-description, homepage or topic write permissions, so this file is a prepared source of truth for a future owner-authorized metadata pass, **not evidence those settings changed**.
+
+The [profile repository](https://github.com/devonalanakins/devonalanakins) was created subsequently and is not included in this proposed settings copy.
 
 ## Suggested About fields
 
@@ -28,7 +30,7 @@ This is a public-safe description, homepage and topic copy sheet for all **13** 
 
 1. Apply descriptions, allowed public homepages and topics through an authorized repository-settings editor when available; avoid setting private infrastructure URLs.
 2. Keep the GitHub profile bio, display name and pinned repositories consistent with **Devon Alan Akins**, without presenting proposed business naming as settled.
-3. A personal profile README is only shown from a public repository named **`devonalanakins/devonalanakins`** with a root `README.md`. This special profile repository was **not** among the 13 accessible repos when inventoried; do not claim it was created or updated.
+3. A personal profile README is only shown from a public repository named **`devonalanakins/devonalanakins`** with a root `README.md`. This public repository was subsequently created and its profile README added; verify its rendering separately.
 4. Consider GitHub social-preview imagery only for repositories with finalized names and permitted artwork. The per-repository SVG banners are source-controlled and display in each README; they do not set GitHub's social-preview image field.
 5. For every future README or metadata change, check identity, alt text, link targets, claims and current CI. Do not label unmerged prototypes “live.”
 

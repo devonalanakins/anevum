@@ -2,7 +2,7 @@
 
 # Devon Alan Akins
 
-> **Portfolio index · November 3, 2026:** This is a project registry, not a deployment or proof of production readiness. Each linked repository tracks its own source, reviews, and release gates.
+> **Portfolio index · repository identities rechecked November 4, 2026:** This is a project registry, not a deployment or proof of production readiness. Each linked repository tracks its own source, reviews, and release gates.
 
 **Author, software builder, and founder of [Anevum](https://anevum.com).**
 
@@ -23,8 +23,9 @@ I make open-source web software, interactive games, creative tools, and fictiona
 | **IdeaFlow** | Idea capture and meeting software; source reconciliation is in progress | [ideaflow](https://github.com/devonalanakins/ideaflow) |
 | **Squelch** | Touch-native audio and DAW vision; engineering prototypes in draft | [squelch](https://github.com/devonalanakins/squelch) |
 | **Merit** | Evidence-based integrity checks for human- and AI-authored software | [merit](https://github.com/devonalanakins/merit) |
-| **Rhen language** | Human-first experimental programming language with local interpreter and JS/Python prototypes | [Research status](https://devonakins.com/work/rhen-language/) — no public compiler repository |
-| **RHEN — markets** | Separate deterministic financial research; not the Rhen language | [rhen](https://github.com/devonalanakins/rhen) |
+| **Rhen language** | Human-first, AI-efficient language research with a bounded M0 parser, JSON IR and JS/Python emitters in [draft PR #1](https://github.com/devonalanakins/rhen/pull/1); not a released compiler | [rhen](https://github.com/devonalanakins/rhen) |
+| **Vesper** | Independent quantitative/financial research redesign, source in draft review, not a live trading service | [vesper](https://github.com/devonalanakins/vesper) |
+| **Vesper Legacy** | Preserved historic financial/trading research source and PRs; separate from Rhen the language | [vesper-legacy](https://github.com/devonalanakins/vesper-legacy) |
 
 Other repositories contain independent work in progress, including games, personal workspaces, and business applications. A public repository or README does **not** mean its application is finished or deployed.
 

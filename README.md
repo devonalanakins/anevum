@@ -22,7 +22,8 @@ I make open-source web software, interactive games, creative tools, and fictiona
 | **Brandicade** | A family game collection; source recovery is in progress | [brandicade](https://github.com/devonalanakins/brandicade) |
 | **IdeaFlow** | Idea capture and meeting software; source reconciliation is in progress | [ideaflow](https://github.com/devonalanakins/ideaflow) |
 | **Squelch** | Touch-native audio and DAW vision; engineering prototypes in draft | [squelch](https://github.com/devonalanakins/squelch) |
-| **Merit** | Evidence-based integrity checks for human- and AI-authored software | [merit](https://github.com/devonalanakins/merit) |\n| **Rhen language** | Human-first experimental programming language with local interpreter and JS/Python prototypes | [Research status](https://devonakins.com/work/rhen-language/) — no public compiler repository |
+| **Merit** | Evidence-based integrity checks for human- and AI-authored software | [merit](https://github.com/devonalanakins/merit) |
+| **Rhen language** | Human-first experimental programming language with local interpreter and JS/Python prototypes | [Research status](https://devonakins.com/work/rhen-language/) — no public compiler repository |
 | **RHEN — markets** | Separate deterministic financial research; not the Rhen language | [rhen](https://github.com/devonalanakins/rhen) |
 
 Other repositories contain independent work in progress, including games, personal workspaces, and business applications. A public repository or README does **not** mean its application is finished or deployed.

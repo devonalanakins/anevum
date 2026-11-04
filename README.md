@@ -1,4 +1,8 @@
+<p align="center"><img src=".github/assets/readme-hero.svg" alt="Original Devon Alan Akins portfolio artwork" width="100%" /></p>
+
 # Devon Alan Akins
+
+> **Portfolio index · November 3, 2026:** This is a project registry, not a deployment or proof of production readiness. Each linked repository tracks its own source, reviews, and release gates.
 
 **Author, software builder, and founder of [Anevum](https://anevum.com).**
 
@@ -17,6 +21,9 @@ I make open-source web software, interactive games, creative tools, and fictiona
 | **Brandle** | A personal five-letter browser game with offline support and local progress | [brandle](https://github.com/devonalanakins/brandle) |
 | **Brandicade** | A family game collection; source recovery is in progress | [brandicade](https://github.com/devonalanakins/brandicade) |
 | **IdeaFlow** | Idea capture and meeting software; source reconciliation is in progress | [ideaflow](https://github.com/devonalanakins/ideaflow) |
+| **Squelch** | Touch-native audio and DAW vision; engineering prototypes in draft | [squelch](https://github.com/devonalanakins/squelch) |
+| **AIEI** | AI engineering integrity and evidence review toolkit | [aiei](https://github.com/devonalanakins/aiei) |
+| **RHEN** | Deterministic financial systems research; risk-gated | [rhen](https://github.com/devonalanakins/rhen) |
 
 Other repositories contain independent work in progress, including games, personal workspaces, and business applications. A public repository or README does **not** mean its application is finished or deployed.
 

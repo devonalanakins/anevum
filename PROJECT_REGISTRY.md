@@ -2,10 +2,11 @@
 
 **Source inventory verified: November 3, 2026.** GitHub account: [Devon Alan Akins](https://github.com/devonalanakins). The personal account was previously named `anevum`; older links and handoff records may retain historical paths. This is a **repository source-status inventory**, not proof that any application is deployed, safe for public use, feature-complete, or currently online.
 
-## Current repository inventory (13 public repositories)
+## Current repository inventory (14 public repositories)
 
 | Repository | Ownership / purpose | Verified public-source state |
 | --- | --- | --- |
+| [devonalanakins](https://github.com/devonalanakins/devonalanakins) | GitHub profile repository | Public profile README published on `main`. |
 | [anevum](https://github.com/devonalanakins/anevum) | Devon's cross-project index | Historical registry and public portfolio README; this is **not** the special GitHub profile repository. |
 | [anevum-web](https://github.com/devonalanakins/anevum-web) | **Anevum** creative-studio website, original works and legacy integrated platform code | Extensive source, tests and older operator/financial platform history on `main`. [Current documentation review](https://github.com/devonalanakins/anevum-web/pull/808). A source route is not proof of a live route. |
 | [rhen](https://github.com/devonalanakins/rhen) | Independent deterministic financial-systems research | Python source and tests on `main`. TPD/account-return changes are in [draft PR #497](https://github.com/devonalanakins/rhen/pull/497); the TPD expansion is parked pending a separate work session. No claim of profitability or live account acceptance. |

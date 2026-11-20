@@ -1,43 +1,39 @@
-<p align="center"><img src=".github/assets/readme-hero.svg" alt="Original Devon Alan Akins portfolio artwork" width="100%" /></p>
+<p align="center"><img src=".github/assets/portfolio-laboratory.svg" alt="Original cinematic research laboratory illustration for the independent software and scientific computing portfolio." width="100%" /></p>
 
-# Devon Alan Akins
+# Devon Alan Akins — public project index
 
-> **Portfolio index · November 3, 2026:** This is a project registry, not a deployment or proof of production readiness. Each linked repository tracks its own source, reviews, and release gates.
+> **Repository index refreshed November 19, 2026.** This is a public source map, not a company incorporation record, production deployment report or complete inventory of private work. The [GitHub profile README](https://github.com/devonalanakins/devonalanakins) is maintained separately.
 
-**Author, software builder, and founder of [Anevum](https://anevum.com).**
+I build independent open-source software, research tools, interactive media and original writing. My current technical direction emphasizes AI infrastructure, scientific computing, accessible software and practical operational systems.
 
-I make open-source web software, interactive games, creative tools, and fictional worlds. Anevum is my long-term creative studio; I also build independent personal and family projects and software for real business needs.
+[Personal website](https://devonakins.com) · [Public GitHub profile](https://github.com/devonalanakins) · [Repository registry](./PROJECT_REGISTRY.md)
 
-[Personal website](https://devonakins.com) · [Anevum](https://anevum.com) · [All repositories](https://github.com/devonalanakins?tab=repositories)
+<p align="center"><img src=".github/assets/portfolio-focus.svg" alt="Current focus: AI systems, scientific computing, and operations and design; conceptual illustrations, not telemetry." width="100%" /></p>
 
----
+## Active and emerging work
 
-## Selected work
-
-| Project | What it is | Source |
+| Project | Scope | Evidence and limits |
 | --- | --- | --- |
-| **Anevum** | Family creative studio, fictional universe, and web experiences | [anevum-web](https://github.com/devonalanakins/anevum-web) |
-| **DevonAkins.com** | My personal website and public workbench | [devonakins.com](https://github.com/devonalanakins/devonakins.com) |
-| **Brandle** | A personal five-letter browser game with offline support and local progress | [brandle](https://github.com/devonalanakins/brandle) |
-| **Brandicade** | A family game collection; source recovery is in progress | [brandicade](https://github.com/devonalanakins/brandicade) |
-| **IdeaFlow** | Idea capture and meeting software; source reconciliation is in progress | [ideaflow](https://github.com/devonalanakins/ideaflow) |
-| **Squelch** | Touch-native audio and DAW vision; engineering prototypes in draft | [squelch](https://github.com/devonalanakins/squelch) |
-| **Merit** | Evidence-based integrity checks for human- and AI-authored software | [merit](https://github.com/devonalanakins/merit) |
-| **Rhen language** | Human-first experimental programming language with local interpreter and JS/Python prototypes | [Research status](https://devonakins.com/work/rhen-language/) — no public compiler repository |
-| **RHEN — markets** | Separate deterministic financial research; not the Rhen language | [rhen](https://github.com/devonalanakins/rhen) |
+| [ANEVUM](https://github.com/devonalanakins/anevum-web) | Open learning, research and creative work | [Open Institute draft](https://github.com/devonalanakins/anevum-web/pull/816) is a protected non-accredited educational preview, not an operating school or nonprofit |
+| [ANEVUM Bonsai Living Atlas](https://github.com/devonalanakins/anevum-web/pull/815) | Seed-grown tree journal and interactive editorial experiments | Isolated draft with illustrative concepts; no authorized apex release |
+| [DevonAkins.com](https://github.com/devonalanakins/devonakins.com) | Personal software and science portfolio | Public source, interactive research and review-in-progress features |
+| [DevonStation](https://github.com/devonalanakins/devon-station) | Personal systems and communications engineering | Application development; verify branch and release status separately |
+| [Knowledge](https://github.com/devonalanakins/knowledge) | Private-first knowledge and file-workspace engineering | Source and review work; no blanket claim of safe production data cutover |
+| [Merit](https://github.com/devonalanakins/merit) | Evidence-led software integrity tooling | Source-based tests and review; not an accredited certification service |
+| [Rhen](https://github.com/devonalanakins/rhen) | Experimental language tooling and inspectable compilation | [M0 in draft PR #1](https://github.com/devonalanakins/rhen/pull/1), not an available released compiler |
+| [Squelch](https://github.com/devonalanakins/squelch) | Touch-first audio and DJ software | Experimental development, not a released workstation |
+| [Brandle](https://github.com/devonalanakins/brandle) | Original browser word game | Public project source |
 
-Other repositories contain independent work in progress, including games, personal workspaces, and business applications. A public repository or README does **not** mean its application is finished or deployed.
+## Preserved and separate work
 
-## How I build
+[Transcosmic: Severance](https://github.com/devonalanakins/severance) retains creative/game research prototypes. [Vesper Legacy](https://github.com/devonalanakins/vesper-legacy) preserves historical quantitative research; it is **not** the new Rhen programming language and makes no investment-performance claim. Other public repositories and older identities remain available in the [registry](./PROJECT_REGISTRY.md), without implying current product support.
 
-- **Real software over demos.** Favor working applications, verified changes, and clear release history.
-- **Open source by default.** Publish reusable code under its repository's actual license; respect third-party notices.
-- **Private data stays private.** Public source does not include customer records, family information, credentials, or production databases.
-- **Independent ownership.** Each deployable application should have its own source, tests, documentation, and rollback procedure.
-- **Creative continuity.** Preserve existing work and finish useful things before starting unnecessary rewrites.
+**Nona Neuropsychology is an independent professional practice**, not an ANEVUM product. My nonclinical operational and digital work for the practice is governed separately, with appropriate professional oversight and restricted source access. Personal, business, family and sensitive data never belong in public project documentation.
 
----
+## Engineering principles
 
-**Currently:** Supporting real business and personal operations, developing independent software, and making time for writing and family creative work.
+I favor readable open-source code, self-hostability where feasible, reproducible tests, accessible user experiences, transparent limitations and proper separation of deployment and security boundaries.
 
-[Project registry](./PROJECT_REGISTRY.md) · Project-specific details are maintained in their respective repositories.
+A repository, experimental UI, generated preview or successful local test is **not** proof of production readiness. Verify the owning repository, exact PR/head, CI and deployed service before relying on a status claim.
+
+[Full public source registry](./PROJECT_REGISTRY.md) · [Proposed GitHub repository descriptions (not applied)](./PUBLIC_REPOSITORY_METADATA.md)

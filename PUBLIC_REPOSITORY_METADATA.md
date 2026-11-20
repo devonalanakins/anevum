@@ -1,8 +1,8 @@
 # Public repository metadata — prepared GitHub settings copy
 
-**Prepared:** November 3, 2026. **Status: PROPOSED, NOT APPLIED TO REPOSITORY SETTINGS.**
+**Prepared:** November 3, 2026; **name reconciliation:** November 4, 2026. **Status: PROPOSED, NOT APPLIED TO REPOSITORY SETTINGS.**
 
-This is a public-safe description, homepage and topic copy sheet for the original **13** verified repositories under [Devon Alan Akins](https://github.com/devonalanakins). Repository README and vector asset updates are maintained in the individual repositories. The GitHub connection available for this documentation task does **not** expose repository-description, homepage or topic write permissions, so this file is a prepared source of truth for a future owner-authorized metadata pass, **not evidence those settings changed**.
+This is a public-safe description, homepage and topic copy sheet for the original verified repositories, with newly added Vesper and Rhen names under [Devon Alan Akins](https://github.com/devonalanakins). Repository README and vector asset updates are maintained in the individual repositories. The GitHub connection available for this documentation task does **not** expose repository-description, homepage or topic write permissions, so this file is a prepared source of truth for a future owner-authorized metadata pass, **not evidence those settings changed**.
 
 The [profile repository](https://github.com/devonalanakins/devonalanakins) was created subsequently and is not included in this proposed settings copy.
 
@@ -12,7 +12,9 @@ The [profile repository](https://github.com/devonalanakins/devonalanakins) was c
 | --- | --- | --- | --- |
 | [anevum](https://github.com/devonalanakins/anevum) | Independent software, research and creative project registry for Devon Alan Akins. | https://devonakins.com | `portfolio`, `open-source`, `independent-developer`, `creative-projects` |
 | [anevum-web](https://github.com/devonalanakins/anevum-web) | Anevum creative studio website, original works and preserved legacy platform source. | https://anevum.com | `typescript`, `react`, `cloudflare-workers`, `creative-studio`, `original-works` |
-| [rhen](https://github.com/devonalanakins/rhen) | Risk-gated deterministic market systems research and experimental execution software. | — | `python`, `financial-research`, `risk-management`, `alpaca`, `automated-trading` |
+| [rhen](https://github.com/devonalanakins/rhen) | Rhen: experimental open-source programming language focused on readable code, inspectable IR and measurable cross-language tools. | — | `programming-language`, `compiler-design`, `intermediate-representation`, `open-source`, `language-research` |
+| [vesper](https://github.com/devonalanakins/vesper) | Vesper: independent quantitative research and financial-systems redesign, under verified source development. | — | `quantitative-research`, `financial-engineering`, `risk-analysis`, `open-source` |
+| [vesper-legacy](https://github.com/devonalanakins/vesper-legacy) | Vesper Legacy: preserved RHEN market research, guarded execution code and historical PRs; no live-performance claim. | — | `python`, `financial-research`, `risk-management`, `legacy-code`, `alpaca` |
 | [devonakins.com](https://github.com/devonalanakins/devonakins.com) | Devon Alan Akins' cinematic personal site, independent software portfolio and public workbench. | https://devonakins.com | `typescript`, `threejs`, `cloudflare-workers`, `personal-website`, `portfolio` |
 | [squelch](https://github.com/devonalanakins/squelch) | Touch-native professional DJ and DAW vision with experimental four-deck audio engine prototypes. | — | `rust`, `audio-engine`, `digital-audio-workstation`, `dj-software`, `touch-interface` |
 | [merit](https://github.com/devonalanakins/merit) | Open-source engineering integrity and evidence review for human- and AI-written software. | — | `nodejs`, `software-quality`, `ai-assisted-development`, `engineering-integrity`, `open-source` |
@@ -24,7 +26,9 @@ The [profile repository](https://github.com/devonalanakins/devonalanakins) was c
 | [severance](https://github.com/devonalanakins/severance) | Transcosmic: Severance — preserved Godot and world-state simulation prototypes. | — | `godot`, `python`, `worldbuilding`, `game-development`, `simulation` |
 | [cristyrusso.com](https://github.com/devonalanakins/cristyrusso.com) | Planning and design source for Cristy's professional website; publication subject to her review. | — | `website`, `accessibility`, `web-design`, `professional-website` |
 
-**Name collision:** `devonalanakins/rhen` is the market-research codebase, not the experimental Rhen programming language. Do not update its repository About description or topics to claim language/compiler features. Merit retains backward-compatible historical `aiei` CLI identifiers until independently migrated.\n\n**Homepage rule:** A dash means **leave blank**, not “create a placeholder URL.” A live private service or unfinished application should not be presented as a publicly usable product. Public homepage fields are suggestions based on existing documented URLs; verify each URL and deployment owner before changing settings.
+**Separated identities:** `devonalanakins/rhen` is now the distinct experimental language repository, not the original trading system. The historical trading source is `devonalanakins/vesper-legacy`; the greenfield finance redesign is `devonalanakins/vesper`. All About fields remain suggestions, not applied GitHub settings. Merit retains historical `aiei` CLI identifiers until separately reviewed.
+
+**Homepage rule:** A dash means **leave blank**, not “create a placeholder URL.” A live private service or unfinished application should not be presented as a publicly usable product. Public homepage fields are suggestions based on existing documented URLs; verify each URL and deployment owner before changing settings.
 
 ## GitHub profile and visual follow-through
 

@@ -1,36 +1,40 @@
-# Public project registry
+# Public GitHub project registry
 
-**Source inventory verified: November 3, 2026.** GitHub account: [Devon Alan Akins](https://github.com/devonalanakins). The personal account was previously named `anevum`; older links and handoff records may retain historical paths. This is a **repository source-status inventory**, not proof that any application is deployed, safe for public use, feature-complete, or currently online.
+**Public repository inventory checked November 19, 2026.** This table covers the **17 public repositories** visible in the `devonalanakins` personal GitHub account at the time of review. Private repositories, professional-organization repositories and unpublished work are deliberately omitted. A repository's existence, source history or draft PR does **not** prove a deployed product, a live service or clinical/compliance approval.
 
-## Current repository inventory (14 public repositories)
+See the [GitHub profile](https://github.com/devonalanakins) and [current personal index](./README.md). Deployment, testing, licensing and business authority belong to each owning project.
 
-| Repository | Ownership / purpose | Verified public-source state |
+## Public repositories
+
+| Repository | Scope and boundary | Current source-level note |
 | --- | --- | --- |
-| [devonalanakins](https://github.com/devonalanakins/devonalanakins) | GitHub profile repository | Public profile README published on `main`. |
-| [anevum](https://github.com/devonalanakins/anevum) | Devon's cross-project index | Historical registry and public portfolio README; this is **not** the special GitHub profile repository. |
-| [anevum-web](https://github.com/devonalanakins/anevum-web) | **Anevum** creative-studio website, original works and legacy integrated platform code | Extensive source, tests and older operator/financial platform history on `main`. [Current documentation review](https://github.com/devonalanakins/anevum-web/pull/808). A source route is not proof of a live route. |
-| [rhen](https://github.com/devonalanakins/rhen) | Existing RHEN financial-systems research (NOT the experimental Rhen language) | Python source and tests on `main`. TPD/account-return changes are in [draft PR #497](https://github.com/devonalanakins/rhen/pull/497); the TPD expansion is parked pending a separate work session. No claim of profitability or live account acceptance. |
-| [devonakins.com](https://github.com/devonalanakins/devonakins.com) | Personal website / developer portfolio | TypeScript/Three.js source and testing on `main`; hosted site has its own separate release evidence. GPT usage display is a reviewed manual snapshot, not live ChatGPT tracking. |
-| [squelch](https://github.com/devonalanakins/squelch) | Touch-native DJ / professional audio / future DAW | `main` is documentation-only. Rust engine, audio and interface design are in [stacked draft PRs](https://github.com/devonalanakins/squelch/pulls). Renamed from **Phatcake**. License selection remains outstanding. |
-| [merit](https://github.com/devonalanakins/merit) | Independent Merit engineering integrity toolkit (formerly AIEI) | Source-only Node CLI, deterministic tests and bounded read-only GitHub evidence observer on `main`. Independent production certification and autonomous release approval are **not** implemented. |
-| [brandle](https://github.com/devonalanakins/brandle) | Independent five-letter word game | Standalone game source/tests on `main`; the existing [game URL](https://brandle-glimmer-grove.devonakins.workers.dev/) and deployment ownership require separate live checks before release claims. |
-| [cristybreathe](https://github.com/devonalanakins/cristybreathe) | Private, separate personal workspace for Cristy | Reusable Cloudflare Worker/PWA source and tests on `main`. The deployed workspace, Access controls and private database are separate. Not an EHR. |
-| [brandicade](https://github.com/devonalanakins/brandicade) | Independent family game collection | `main` remains documentation/recovery only. [Prism Bloom and protected parity work](https://github.com/devonalanakins/brandicade/pull/12) is in draft; Access/D1 backend parity, data-preservation and licensing are release gates. |
-| [devon-station](https://github.com/devonalanakins/devon-station) | Personal operations application | `main` remains documentation/recovery only. [Communications](https://github.com/devonalanakins/devon-station/pull/36) and other application development are in draft PRs, not an accepted production cutover. |
-| [ideaflow](https://github.com/devonalanakins/ideaflow) | Independent idea capture and meeting workflows | `main` is recovery/documentation only. [Analyzer recovery](https://github.com/devonalanakins/ideaflow/pull/1) is draft; manual on-demand processing supersedes older automatic schedules. |
-| [severance](https://github.com/devonalanakins/severance) | Parked **Anevum / Transcosmic** creative-world experiments | Preserved Godot prototype and separate Python/SQLite world-state lab; neither is a released multiplayer game. |
-| [cristyrusso.com](https://github.com/devonalanakins/cristyrusso.com) | Separate professional website planning | `main` is documentation/concept only. Professional facts, imagery, content rights and release require Cristy's approval. |
+| [devonalanakins](https://github.com/devonalanakins/devonalanakins) | Special GitHub profile README | Main profile exists; [updated November 19 copy is in PR #2](https://github.com/devonalanakins/devonalanakins/pull/2) pending review |
+| [anevum](https://github.com/devonalanakins/anevum) | Cross-project public index and historical records | This repository; not the special profile README or the ANEVUM web application's deployed owner |
+| [anevum-web](https://github.com/devonalanakins/anevum-web) | ANEVUM web/creative/educational experiments and historical platform source | [Open Institute protected draft #816](https://github.com/devonalanakins/anevum-web/pull/816); [bonsai draft #815](https://github.com/devonalanakins/anevum-web/pull/815); no implied public launch |
+| [devonakins.com](https://github.com/devonalanakins/devonakins.com) | Personal site, research views, developer portfolio | Public site source and PR reviews; live telemetry must be checked independently |
+| [knowledge](https://github.com/devonalanakins/knowledge) | Knowledge/wiki/file-workspace replacement engineering | Open-source code and migration experiments; no unqualified live cutover or authorization claim |
+| [devon-station](https://github.com/devonalanakins/devon-station) | Personal operating environment and communications | Application engineering and reviews; production status requires separate verification |
+| [merit](https://github.com/devonalanakins/merit) | Software review and AI-code integrity evidence | Engineering toolkit source; no independent certification or universal automated-release claim |
+| [rhen](https://github.com/devonalanakins/rhen) | New programming-language research | Placeholder main README; M0 parser, IR and emitters in [draft PR #1](https://github.com/devonalanakins/rhen/pull/1), not merged/released |
+| [vesper-legacy](https://github.com/devonalanakins/vesper-legacy) | Historical quantitative-research code, formerly called RHEN | Preserved history; not the Rhen language, a live portfolio or evidence of trading profitability |
+| [squelch](https://github.com/devonalanakins/squelch) | Touch-first DJ / audio workstation engineering | Development prototypes in PR review; no commercial release claim |
+| [brandle](https://github.com/devonalanakins/brandle) | Independent browser word game | Public game source; confirm specific release separately |
+| [ideaflow](https://github.com/devonalanakins/ideaflow) | Idea capture and meeting workflows | Independent source and reconciliation work |
+| [cristybreathe](https://github.com/devonalanakins/cristybreathe) | Reusable source for a private personal application | Privacy/access and live data remain in the separately protected deployment; not an EHR |
+| [cristyrusso.com](https://github.com/devonalanakins/cristyrusso.com) | Separate professional website design and development | Client/professional content requires Cristy's approval before publication |
+| [severance](https://github.com/devonalanakins/severance) | Transcosmic / original-world experiments | Parked Godot and offline simulation prototypes; not a launched game |
+| [mizvo](https://github.com/devonalanakins/mizvo) | Historical project-name repository | Placeholder README; not presented here as an operating organization or supported current product |
+| [invariant](https://github.com/devonalanakins/invariant) | Experimental project-name repository | Placeholder README; purpose and readiness not established by public source |
 
-**Rhen programming-language research:** The name Rhen is selected for a separate manually programmable language concept. Local research prototypes through 0.3 were tested in conversation artifacts (a bounded interpreter, contracts, JSON IR, JS/Python code emission), but no dedicated public language-compiler repository exists in this inventory. The current `rhen` repo is the existing market-research/trading system. Do not merge these sources or claim a public language release. The old ISL prototype was not an accessible `devonalanakins/isl` GitHub repository at the latest check.\n\n**Merit identity:** The former `aiei` GitHub repository was renamed to `merit`, with repository history and draft PRs preserved. The CLI and package identifiers remain `aiei` for compatibility; their migration requires separate verification.\n\n## Current identity and boundaries
+## Identity and status rules
 
-- **Anevum** is the creative studio and home of original works / Transcosmic. RHEN is a **separate** research system, not the identity of the creative studio.
-- **DevonStation**, **Squelch**, **Merit**, **IdeaFlow**, the personal website and family games have their own repository and source/operating boundaries. A single GitHub account is not proof of a shared business entity or deployment.
-- **Cristy's professional and personal projects** remain independently authorized. Public code cannot disclose medical or client information, employee records, private databases, passwords, credentials or private infrastructure state.
-- A **merged documentation PR** changes the public source presentation. A passing test does not, by itself, prove a live production release.
-- The retired `family-adventure-book` repository and legacy `phatcake` repository name are **not** part of the current active inventory. Original source history and historical handoffs are preserved where relevant.
+- **ANEVUM:** Emerging open technical learning, research and creative direction. The Open Institute is a **non-accredited draft/protected preview**, not a registered charity, university, clinical practice or issuing authority. The bonsai site and original creative material have separate review branches and release gates.
+- **Devon Alan Akins:** Independent developer, author and engineer. Projects listed here are not automatically owned by a single commercial entity.
+- **Nona Neuropsychology:** Separate professional practice with its own private GitHub organization and clinical/operational authorization. No patient, workforce or internal business material is imported into this public registry.
+- **Rhen vs. Vesper Legacy:** Rhen is an experimental language. Vesper Legacy retains the earlier financial-research source. Do not confuse the two or claim a public compiler release or financial performance.
+- **Knowledge:** Historical README statements can lag behind newer work. The private deployment, original migration and authenticated write gates must be independently proven, never inferred from test fixtures or a draft PR.
+- **Earlier portfolio records:** October 2026 and early November audits are preserved as dated historical evidence. They are not instructions to restore old brands, accounts or release routes.
 
-## Historical reconciliation
+For current build and acceptance evidence, consult the **latest exact-head PR**, repository CI and actual deployment owner rather than a summary in this registry.
 
-The [October 30 reorganization audit](./AUDIT_2026-10-30.md), [closeout backlog](./CLOSEOUT_BACKLOG_2026-10-30.md), [portfolio audit](./PORTFOLIO_CLOSEOUT_AUDIT_2026-10-30.md) and [source handoff](./handoffs/ANEVUM.OPS.PACKAGE.2026-10-30.002.md) are dated **historical evidence**, not current instructions to restore retired providers or to combine separate repositories. Verify against the current owning repository, PRs, deployment provider and an up-to-date approval before making production changes.
-
-[Portfolio homepage](./README.md) · [Public repository settings copy draft](./PUBLIC_REPOSITORY_METADATA.md)
+[Portfolio index](./README.md) · [Proposed GitHub About metadata, not applied](./PUBLIC_REPOSITORY_METADATA.md)

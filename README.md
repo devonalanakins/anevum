@@ -1,4 +1,4 @@
-<p align="center"><img src=".github/assets/readme-hero.svg" alt="Original Devon Alan Akins portfolio artwork" width="100%" /></p>
+<p align="center"><img src=".github/assets/portfolio-laboratory.svg" alt="Original cinematic research laboratory illustration for the independent software and scientific computing portfolio." width="100%" /></p>
 
 # Devon Alan Akins — public project index
 
@@ -7,6 +7,8 @@
 I build independent open-source software, research tools, interactive media and original writing. My current technical direction emphasizes AI infrastructure, scientific computing, accessible software and practical operational systems.
 
 [Personal website](https://devonakins.com) · [Public GitHub profile](https://github.com/devonalanakins) · [Repository registry](./PROJECT_REGISTRY.md)
+
+<p align="center"><img src=".github/assets/portfolio-focus.svg" alt="Current focus: AI systems, scientific computing, and operations and design; conceptual illustrations, not telemetry." width="100%" /></p>
 
 ## Active and emerging work
 
